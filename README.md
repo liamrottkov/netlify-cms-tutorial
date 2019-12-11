@@ -1,4 +1,3 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
@@ -94,4 +93,27 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+
+## Sourcing from Netlify CMS
+
+https://www.gatsbyjs.org/docs/sourcing-from-netlify-cms/
+
+
+## Use OAuth provider tokens on your site
+
+https://docs.netlify.com/visitor-access/oauth-provider-tokens/#setup-and-settings
+
+
+## Adding Markdown Pages
+
+https://www.gatsbyjs.org/docs/adding-markdown-pages/
+
+
+## Gatsby Recommended Styling Systems
+
+https://www.gatsbyjs.org/docs/styling/
+
+
+## Gatsby Examples
+
+https://github.com/gatsbyjs/gatsby/tree/master/examples
